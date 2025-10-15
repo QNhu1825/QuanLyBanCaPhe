@@ -1,0 +1,6 @@
+D:\DoAnWindows\QuanLyCuaHangBanCaPhe\DemoAppDTO\bin\Debug\DemoAppDTO.dll
+D:\DoAnWindows\QuanLyCuaHangBanCaPhe\DemoAppDTO\bin\Debug\DemoAppDTO.pdb
+D:\DoAnWindows\QuanLyCuaHangBanCaPhe\DemoAppDTO\obj\Debug\DemoAppDTO.csproj.AssemblyReference.cache
+D:\DoAnWindows\QuanLyCuaHangBanCaPhe\DemoAppDTO\obj\Debug\DemoAppDTO.csproj.CoreCompileInputs.cache
+D:\DoAnWindows\QuanLyCuaHangBanCaPhe\DemoAppDTO\obj\Debug\DemoAppDTO.dll
+D:\DoAnWindows\QuanLyCuaHangBanCaPhe\DemoAppDTO\obj\Debug\DemoAppDTO.pdb
